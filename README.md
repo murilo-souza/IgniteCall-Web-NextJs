@@ -23,4 +23,11 @@
   <li><a href="https://react-hook-form.com/">React Hook Form</a></li>
 </ul>
 
+<h2>Features</h2>
+<ul>
+  <li>Create new user</li>
+  <li>Select available dates</li>
+  <li>Connect with google calendar</li>
+</ul>
+
 
