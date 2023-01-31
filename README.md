@@ -30,4 +30,7 @@
   <li>Connect with google calendar</li>
 </ul>
 
+<h2>Layout</h2>
+<p>To see the complet layout of the application, access the <a href="https://www.figma.com/file/vDupTJqmvArKK3oQslcKVe/Ignite-Call-(Community)?t=uVFMGUY9ibdrszwL-0">Link</a></p>
+
 
