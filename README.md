@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/53982668/211230953-a6c211a9-2a32-4c39-b147-ffa292d2871c.png)
 
 <h2>Project</h2>
-<p>Last application in Ignite curse</p>
+<p>Last application in Ignite course</p>
 
 <h2>Stack</h2>
 <ul>
