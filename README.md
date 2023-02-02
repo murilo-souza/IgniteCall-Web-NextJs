@@ -26,6 +26,7 @@
 <h2>Features</h2>
 <ul>
   <li>Create new user</li>
+  <li>Select available hours</li>
   <li>Select available dates</li>
   <li>Connect with google calendar</li>
 </ul>
